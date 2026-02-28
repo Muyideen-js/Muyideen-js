@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 Yusuf Muyideen
-
 Full-Stack Developer | AI Product Engineer | React & React Native Specialist
 
 Building scalable AI-powered platforms and production-ready digital products.
@@ -10,7 +9,7 @@ About Me
 
 I design and build intelligent systems that combine frontend engineering, backend architecture, and AI automation.
 
-My work focuses on:
+My focus areas:
 
 AI-driven learning platforms
 
@@ -29,7 +28,7 @@ An intelligent learning management system enhanced with AI-powered features such
 
 AI Automation Platform
 
-A platform that enables workflow automation, AI-powered responses, integrations with messaging systems, and intelligent process optimization.
+A platform enabling workflow automation, AI-powered responses, messaging integrations, and intelligent process optimization.
 
 LearnWithWida – LMS
 
@@ -44,30 +43,25 @@ Web3 Cycle Application
 A decentralized application built for a blockchain-powered cycle company.
 
 Technical Stack
-
 Frontend
-React.js
-Next.js
-TypeScript
-Tailwind CSS
+
+React.js • Next.js • TypeScript • Tailwind CSS
 
 Mobile
+
 React Native
 
 Backend
-Node.js
-Express.js
-Firebase
-REST APIs
+
+Node.js • Express.js • Firebase • REST APIs
 
 Database
-MongoDB
-Firestore
+
+MongoDB • Firestore
 
 AI & Automation
-LLM Integrations
-Prompt Engineering
-Workflow Automation Systems
+
+LLM Integrations • Prompt Engineering • Workflow Automation Systems
 
 Engineering Focus
 
@@ -80,7 +74,10 @@ Product-driven development
 Automation-first thinking
 
 GitHub Statistics
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=muyideen-js&show_icons=true)
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+
+Replace YOUR_USERNAME with your GitHub username.
+
 Currently Building
 
 Advanced AI workflow systems
@@ -92,4 +89,5 @@ Scalable SaaS infrastructure
 Contact
 
 Email: yusufabolaji2007@gmail.com
-X: yaomin_dev
+
+X: https://x.com/yaomin_dev
