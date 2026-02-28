@@ -1,93 +1,90 @@
 ## Hi there 👋
 
-Yusuf Muyideen
-Full-Stack Developer | AI Product Engineer | React & React Native Specialist
+# Yusuf Muyideen
+
+### Full-Stack Developer | AI Product Engineer | React & React Native Specialist
 
 Building scalable AI-powered platforms and production-ready digital products.
 
-About Me
+---
+
+## About Me
 
 I design and build intelligent systems that combine frontend engineering, backend architecture, and AI automation.
 
 My focus areas:
 
-AI-driven learning platforms
-
-AI automation systems
-
-Scalable SaaS applications
-
-Web and mobile product development
+- AI-driven learning platforms  
+- AI automation systems  
+- Scalable SaaS applications  
+- Web and mobile product development  
 
 I build for performance, usability, and real-world impact.
 
-Core Projects
-AI Learning Platform
+---
 
+## Core Projects
+
+### AI Learning Platform
 An intelligent learning management system enhanced with AI-powered features such as smart content delivery, adaptive learning flows, and automation-driven user engagement.
 
-AI Automation Platform
-
+### AI Automation Platform
 A platform enabling workflow automation, AI-powered responses, messaging integrations, and intelligent process optimization.
 
-LearnWithWida – LMS
-
+### LearnWithWida – LMS
 A full-stack Learning Management System with authentication, course management, and scalable backend infrastructure.
 
-Threads-Style Social Platform
-
+### Threads-Style Social Platform
 A full-stack social application with real-time interactions and dynamic content handling.
 
-Web3 Cycle Application
-
+### Web3 Cycle Application
 A decentralized application built for a blockchain-powered cycle company.
 
-Technical Stack
-Frontend
+---
 
-React.js • Next.js • TypeScript • Tailwind CSS
+## Technical Stack
 
-Mobile
+### Frontend
+React.js • Next.js • TypeScript • Tailwind CSS  
 
-React Native
+### Mobile
+React Native  
 
-Backend
+### Backend
+Node.js • Express.js • Firebase • REST APIs  
 
-Node.js • Express.js • Firebase • REST APIs
+### Database
+MongoDB • Firestore  
 
-Database
+### AI & Automation
+LLM Integrations • Prompt Engineering • Workflow Automation Systems  
 
-MongoDB • Firestore
+---
 
-AI & Automation
+## Engineering Focus
 
-LLM Integrations • Prompt Engineering • Workflow Automation Systems
+- Designing scalable AI systems  
+- Clean architecture and maintainable codebases  
+- Product-driven development  
+- Automation-first thinking  
 
-Engineering Focus
+---
 
-Designing scalable AI systems
+## GitHub Statistics
 
-Clean architecture and maintainable codebases
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muyideen-js&show_icons=true&hide_border=true)
 
-Product-driven development
+---
 
-Automation-first thinking
+## Currently Building
 
-GitHub Statistics
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+- Advanced AI workflow systems  
+- Intelligent automation pipelines  
+- Scalable SaaS infrastructure  
 
-Replace YOUR_USERNAME with your GitHub username.
+---
 
-Currently Building
+## Contact
 
-Advanced AI workflow systems
-
-Intelligent automation pipelines
-
-Scalable SaaS infrastructure
-
-Contact
-
-Email: yusufabolaji2007@gmail.com
-
+Email: yusufabolaji2007@gmail.com  
 X: https://x.com/yaomin_dev
