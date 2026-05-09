@@ -10,7 +10,7 @@ Building scalable AI learning systems and intelligent automation platforms.
 ---
 
 ### Core Focus
-- AI Learning Platforms  
+- AI Agents  
 - AI Automation Systems  
 - SaaS Architecture  
 - Clean, Scalable Code  
